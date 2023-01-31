@@ -1,0 +1,123 @@
+
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.topContainer{
+    background-color: #EAF6F6;
+    margin: 0;
+
+}
+
+h1{
+    margin-top: 0;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 2.75rem;
+    position: relative;
+    top: 23px;
+}
+
+span{
+    text-decoration: underline;
+}
+.p1{
+    color: #66BFBF;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.cloud1,.cloud2{
+    height: 150px;
+}
+
+.cloud1{
+    position: absolute;
+    left: 62%;
+}
+
+.cloud2{
+    position: absolute;
+    top: 300px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile{
+    height: 200px;
+}
+
+
+    
+
+
+
+    
+
+.pSkill2{
+    text-align: left;
+    margin-left: 23%;
+}
+
+.footer{
+    background-color: #66BFBF;
+    color: #11999E;
+    padding: 20px;
+    margin-top: 25px;
+}
+.pf{
+    color: white;
+}
+
+.btn{
+    background-color: #66BFBF;
+    padding: 4px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a.hoover{
+    color: red;
+    touch-action: yellow;
+}
+a{
+    text-decoration: none;
+}
+
+.skillrow{
+    width: 50%;
+    margin: auto;
+    margin: 100px auto 100px auto;
+    padding: 10px;
+    text-align: left;
+    line-height: 2;
+}
+.skill1{
+    width: 25%;
+    float: left;
+    margin-right: 30%;
+    border-radius: 100%;
+}
+.skill2{
+    width: 30%;
+    float: right;
+    margin-left: 20%;
+    border-radius: 100%;
+}
+
+hr{
+    width: 5%;
+    border-top: dotted;
+    color: gray;
+    border: solid;
+}
